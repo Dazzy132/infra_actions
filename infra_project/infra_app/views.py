@@ -10,4 +10,4 @@ def second_page(request):
 
 
 def test_page(request):
-    return HttpResponse('На боевом проекте изменения прошли!!')
+    return HttpResponse('На боевом проекте изменения прошли!!!')
